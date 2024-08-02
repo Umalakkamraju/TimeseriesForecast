@@ -1,0 +1,17 @@
+D:\CsharpPractice\TimeSeriesForecast\TimeSeriesForecast\obj\Debug\net6.0\TimeSeriesForecast.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpPractice\TimeSeriesForecast\TimeSeriesForecast\obj\Debug\net6.0\TimeSeriesForecast.AssemblyInfoInputs.cache
+D:\CsharpPractice\TimeSeriesForecast\TimeSeriesForecast\obj\Debug\net6.0\TimeSeriesForecast.AssemblyInfo.cs
+D:\CsharpPractice\TimeSeriesForecast\TimeSeriesForecast\obj\Debug\net6.0\TimeSeriesForecast.csproj.CoreCompileInputs.cache
+D:\CsharpPractice\TimeSeriesForecast\TimeSeriesForecast\bin\Debug\net6.0\TimeSeriesForecast.exe
+D:\CsharpPractice\TimeSeriesForecast\TimeSeriesForecast\bin\Debug\net6.0\TimeSeriesForecast.deps.json
+D:\CsharpPractice\TimeSeriesForecast\TimeSeriesForecast\bin\Debug\net6.0\TimeSeriesForecast.runtimeconfig.json
+D:\CsharpPractice\TimeSeriesForecast\TimeSeriesForecast\bin\Debug\net6.0\TimeSeriesForecast.dll
+D:\CsharpPractice\TimeSeriesForecast\TimeSeriesForecast\bin\Debug\net6.0\TimeSeriesForecast.pdb
+D:\CsharpPractice\TimeSeriesForecast\TimeSeriesForecast\bin\Debug\net6.0\CsvHelper.dll
+D:\CsharpPractice\TimeSeriesForecast\TimeSeriesForecast\obj\Debug\net6.0\TimeSeriesForecast.csproj.AssemblyReference.cache
+D:\CsharpPractice\TimeSeriesForecast\TimeSeriesForecast\obj\Debug\net6.0\TimeSeriesForecast.csproj.CopyComplete
+D:\CsharpPractice\TimeSeriesForecast\TimeSeriesForecast\obj\Debug\net6.0\TimeSeriesForecast.dll
+D:\CsharpPractice\TimeSeriesForecast\TimeSeriesForecast\obj\Debug\net6.0\refint\TimeSeriesForecast.dll
+D:\CsharpPractice\TimeSeriesForecast\TimeSeriesForecast\obj\Debug\net6.0\TimeSeriesForecast.pdb
+D:\CsharpPractice\TimeSeriesForecast\TimeSeriesForecast\obj\Debug\net6.0\TimeSeriesForecast.genruntimeconfig.cache
+D:\CsharpPractice\TimeSeriesForecast\TimeSeriesForecast\obj\Debug\net6.0\ref\TimeSeriesForecast.dll

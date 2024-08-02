@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nLDkqHjDNIeX2jYVb2T08OZ/0O+zhJY9mb392uHaqlHgpccyA4EAuQQmj7CXphjHPjdnKWbhMy3C1orQs9bvVQ==",
+  "success": true,
+  "projectFilePath": "D:\\CsharpPractice\\TimeSeriesForecast\\TimeSeriesForecast\\TimeSeriesForecast.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kalya\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
