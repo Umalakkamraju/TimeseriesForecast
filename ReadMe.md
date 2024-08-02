@@ -9,7 +9,7 @@
 
 	2. Run the executable as follows
 	
-	# TimeSeriesForecast.exe Numberoffiles
+	# TimeSeriesForecast.exe NumberOfFiles
 
 	For your convenience executables are also included in the github
 
